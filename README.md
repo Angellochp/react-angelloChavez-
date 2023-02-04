@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Proyecto REACT Final Angello Chavez CODERHOUSE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto representa la creación de un E-commerce con REACTjs el mismo cuenta con 4 Categorías y 14 productos.
+
+
+# Consideraciones sobre Github
+
+EL proyecto fue originalmente subido al repositorio: [Repositorio original](https://github.com/Angellochp/React-Coderhouse-Angello-Chavez)
+
+
+
+
+
+
+ [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
