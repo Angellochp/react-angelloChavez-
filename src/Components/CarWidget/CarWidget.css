@@ -1,0 +1,23 @@
+.menu-navbar_img{
+    width: 38px;
+   /*  margin: 40px; */
+    /* margin-right: 50px; */
+    
+}
+
+.menu-navbar-logo{
+
+    display: flex;
+    align-items: center;
+    padding: auto;
+    padding: 30px;
+
+}
+
+.menu-navbar-logo span{
+
+    background-color: black ;
+    border-radius: 20px;
+    color: white;
+
+}

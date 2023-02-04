@@ -1,0 +1,35 @@
+
+.nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #3b3b3b;
+    background-color: #3b3b3b;
+    position: relative;
+}
+
+.nav-item {
+    float: left;
+}
+
+.nav-item a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    background-color: #ddd;
+}
+
+.widget-container {
+    right: 40px;
+    top: 6px;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    flex-direction: row;
+}
